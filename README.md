@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali es raat ch tera chamkda face
+> Dil di eh dhadkan di vadh gayi pace
+> Sohniye raahan ch khada main on sight
+> Lutt-da haan nazraan under the light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
